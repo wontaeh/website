@@ -8,7 +8,7 @@ import Footer from './Footer';
 import Contact from './Contact';
 import Developers from './Developers';
 import demogif1 from './img/demo_1.gif';
-import demogif2 from './img/demo_2.gif';
+// import demogif2 from './img/demo_2.gif';
 import DebuxLogo from './img/debuxLogo.png';
 
 
@@ -90,8 +90,8 @@ class App extends Component {
               </div>
               <div className="col-lg-6 col-sm-pull-6 col-sm-6 gifs">
                 <img className="img-responsive" src={demogif1} alt=""/>
-                <hr/>
-                <img className="img-responsive" src={demogif2} alt=""/>
+                {/* <hr/>
+                <img className="img-responsive" src={demogif2} alt=""/> */}
               </div>
             </div>
           </div>
