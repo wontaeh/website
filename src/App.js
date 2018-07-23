@@ -8,7 +8,6 @@ import Footer from './Footer';
 import Contact from './Contact';
 import Developers from './Developers';
 import demogif1 from './img/demo_1.gif';
-// import demogif2 from './img/demo_2.gif';
 import Workflow from './img/Workflow.png';
 import Logo from './img/Logo.png';
 
